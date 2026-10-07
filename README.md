@@ -1,6 +1,6 @@
 # Flutter Google Maps
 
-Aplicativo Flutter que exibe um mapa do Google Mpas. Toque no mapa para ver as coordenadas do ponto selecionado e adicionar um marcador.
+Aplicativo Flutter que exibe um mapa do Google Maps. Toque no mapa para ver as coordenadas do ponto selecionado e adicionar um marcador.
 
 ## Screenshot
 
